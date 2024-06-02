@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_welcome_page">Story App</string>
+    <string name="deksripsi_title">Buat &amp; Bagikan Foto dan Cerita Anda</string>
+    <string name="login">Masuk</string>
+    <string name="sign_up">Daftar</string>
+    <string name="title_login_page">Masuk dengan Akun Anda</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="title_signup_page">Buat Akun Anda</string>
+    <string name="name">Nama Pengguna</string>
+    <string name="signup">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="message_welcome_page">Selamat Datang</string>
+    <string name="gambar">Gambar</string>
+    <string name="description">Deskripsi</string>
+    <string name="error">Kesalahan</string>
+    <string name="menu_1">Bahasa</string>
+    <string name="menu_2">Keluar</string>
+    <string name="title_activity_detail">Detail Aktivitas</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Dasbor</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="user">Pengguna</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image">Terjadi Kesalahan</string>
+    <string name="upload_success">Unggah Berhasil</string>
+    <string name="buat_akun">Akun Berhasil Dibuat</string>
+    <string name="next">Lanjut</string>
+    <string name="error_pasw">Kata sandi harus minimal 8 karakter</string>
+    <string name="error_email">Email tidak valid</string>
+
+</resources>

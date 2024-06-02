@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_welcome_page">Story App</string>
+    <string name="deksripsi_title">Erstellen &amp; Teilen Sie Ihre Fotos und Geschichten</string>
+    <string name="login">Anmelden</string>
+    <string name="sign_up">Registrieren</string>
+    <string name="title_login_page">Melden Sie sich mit Ihrem Konto an</string>
+    <string name="email">Email</string>
+    <string name="password">Passwort</string>
+    <string name="title_signup_page">Erstellen Sie Ihr Konto</string>
+    <string name="name">Benutzername</string>
+    <string name="signup">Registrieren</string>
+    <string name="logout">Abmelden</string>
+    <string name="message_welcome_page">Willkommen</string>
+    <string name="gambar">Bild</string>
+    <string name="description">Beschreibung</string>
+    <string name="error">Fehler</string>
+    <string name="menu_1">Sprache</string>
+    <string name="menu_2">Abmelden</string>
+    <string name="title_activity_detail">Detailaktivität</string>
+    <string name="title_home">Startseite</string>
+    <string name="title_dashboard">Armaturenbrett</string>
+    <string name="title_notifications">Benachrichtigungen</string>
+    <string name="user">Benutzer</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerie</string>
+    <string name="upload">Hochladen</string>
+    <string name="empty_image">Fehler aufgetreten</string>
+    <string name="upload_success">Hochladen erfolgreich</string>
+    <string name="upload_success_msg">Upload erfolgreich! Hochgeladen von %1$s</string>
+    <string name="next">Weiter</string>
+    <string name="error_pasw">Das Passwort muss mindestens 8 Zeichen lang sein</string>
+    <string name="error_email">Ungültige E-Mail</string>
+    <string name="buat_akun">Konto erfolgreich erstellt</string>
+</resources>
